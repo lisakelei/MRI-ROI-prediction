@@ -1,7 +1,7 @@
 # MRI-ROI-prediction
 TensorFlow 2.0 implementation of a model predicting region of interest in MRI localizers.
 
-Link to paper:
+Link to paper: https://www.mdpi.com/2306-5354/10/1/92
 
 The model can be trained to prediction the left-right boundries or top-bottom boundries of an ROI for a stack of hip or abdomen MRI localizer. 
 Two instances of the same model is trained independently for the left-right and top-bottom pairs of boundries.
